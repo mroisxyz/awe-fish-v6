@@ -5,7 +5,7 @@ const TEXT = `A bell lies in the silt of an old harbor.
 The ship that brought it went down
 before the harbor had a name.
 
-Light thins as it sinks;
+Light thins;
 the name on the bell turns green.
 Tides pass. Ferries pass.
 It has not rung. No one asks.
